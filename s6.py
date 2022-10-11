@@ -163,3 +163,4 @@ print(product_arr)
 nums = [2, 3, 4, 5, 7]
 print([nums[i]*nums[-i-1] for i in range(-(-len(nums)//2))])
 
+# 
